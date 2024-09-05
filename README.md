@@ -1,0 +1,3 @@
+# SmartPhone-Location-Access
+Aim
+This project aims to develop a Python-based application that retrieves real-time location data from smartphones using phone number and network-based location services. The project seeks to leverage Python libraries to access location information, process it, and display it in a meaningful format. It utilizes the Tkinter Library in Python to create a user-friendly interface and show the exact location on a map. It also emphasizes ensuring user privacy by appropriately managing permissions for accessing location data, thus providing a balance between functionality and data security.
